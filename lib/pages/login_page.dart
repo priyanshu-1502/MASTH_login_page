@@ -245,22 +245,22 @@ class _LoginPageState extends State<LoginPage> {
                       ),
                     ),
                   ),
-                  SizedBox( height: 30,),
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    children: [
-                      Text('Not a member?  ',
-                      style: TextStyle(
-                        fontSize: 18,
-                      ),),
-                      Text(
-                          'Register now',
-                      style: TextStyle(
-                        color: Colors.blue,fontWeight: FontWeight.bold,
-                        fontSize: 18,
-                      ),),
-                    ],
-                  )// ...
+                  // SizedBox( height: 30,),
+                  // Row(
+                  //   mainAxisAlignment: MainAxisAlignment.center,
+                  //   children: [
+                  //     Text('Not a member?  ',
+                  //     style: TextStyle(
+                  //       fontSize: 18,
+                  //     ),),
+                  //     Text(
+                  //         'Register now',
+                  //     style: TextStyle(
+                  //       color: Colors.blue,fontWeight: FontWeight.bold,
+                  //       fontSize: 18,
+                  //     ),),
+                  //   ],
+                  // )// ...
                   ],
                       ),
                     ),
